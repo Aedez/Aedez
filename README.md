@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">A friendly DevOps engineer from Ghana</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aedez" alt="aedez" /></a> </p>
-
 - 🌱 I’m currently learning **AWS SysOps Administration**
 
 - 💬 Ask me about **.tf files, containers and bash scripts vs jenkins**
