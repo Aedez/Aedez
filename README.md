@@ -13,10 +13,23 @@
 <h3 align="center">Cloud & Data Engineer ☁ | Database Admin 💾 | Automation Ninja 🤖</h3>
 
 <p align="center">
-  <a href="https://github.com/Aedez"><img src="https://img.shields.io/badge/GitHub‑Aedez‑181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://linkedin.com/in/michael-nk-owusu-afari"><img src="https://img.shields.io/badge/LinkedIn‑Connect‑0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:michaelnkowusuafari@gmail.com"><img src="https://img.shields.io/badge/Email‑Me‑D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/Aedez">
+    <img 
+      src="https://img.shields.io/badge/GitHub-Aedez-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"
+      alt="GitHub Aedez">
+  </a>
+  <a href="https://linkedin.com/in/michael-nk-owusu-afari">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"
+      alt="LinkedIn Connect">
+  </a>
+  <a href="mailto:michaelnkowusuafari@gmail.com">
+    <img 
+      src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"
+      alt="Email Me">
+  </a>
 </p>
+
 
 ---
 
@@ -81,10 +94,7 @@
   <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-plain.svg"
          alt="kibana" width="40" height="40"/>
-  </a>
-  <a href="https://www.metabase.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/metabase/metabase-logo/master/dist/metabase-logo.png"
-         alt="metabase" width="40" height="40"/>
+
   </a>
   <!-- Version Control & CI -->
   <a href="https://git-scm.com" target="_blank" rel="noreferrer">
