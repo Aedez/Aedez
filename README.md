@@ -33,18 +33,70 @@
 - 🤔 "Is it real or just bad AI codes and queires?"
 - 🐳 Docker vs Kubernetes vs “just a bash script”   
 
-## 🔧 Tools & Tech
+<h3 align="left">Languages &amp; Tools:</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS‑EC2/red‑S3/yellow?style=flat&logo=amazonaws" height="28" />  
-  <img src="https://img.shields.io/badge/Redshift‑🎳‑purple?style=flat" height="28" />  
-  <img src="https://img.shields.io/badge/RDS‑📦‑blue?style=flat" height="28" />  
-  <img src="https://img.shields.io/badge/Terraform‑🛠️‑cyan?style=flat&logo=terraform" height="28" />  
-  <img src="https://img.shields.io/badge/Docker‑🐳‑blue?style=flat&logo=docker" height="28" />  
-  <img src="https://img.shields.io/badge/Python‑🐍‑brightgreen?style=flat&logo=python" height="28" />  
-  <img src="https://img.shields.io/badge/Bash‑📜‑black?style=flat&logo=gnu-bash" height="28" />  
-  <img src="https://img.shields.io/badge/Grafana‑📈‑orange?style=flat&logo=grafana" height="28" />  
-  <img src="https://img.shields.io/badge/CloudWatch‑⏰‑lightgrey?style=flat&logo=amazonaws" height="28" />  
+  <!-- Cloud & Infra -->
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+         alt="aws" width="40" height="40"/>
+  </a>
+  <a href="https://www.terraform.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg"
+         alt="terraform" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+         alt="docker" width="40" height="40"/>
+  </a>
+  <!-- Programming & Scripting -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+         alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
+         alt="bash" width="40" height="40"/>
+  </a>
+  <!-- Database & Analytics -->
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+         alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+         alt="mongodb" width="40" height="40"/>
+  </a>
+  <a href="https://grafana.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg"
+         alt="grafana" width="40" height="40"/>
+  </a>
+  <a href="https://www.elastic.co/elk-stack" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg"
+         alt="elasticsearch" width="40" height="40"/>
+  </a>
+  <a href="https://www.elastic.co/logstash" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/logstash/logstash-original.svg"
+         alt="logstash" width="40" height="40"/>
+  </a>
+  <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-plain.svg"
+         alt="kibana" width="40" height="40"/>
+  </a>
+  <a href="https://www.metabase.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/metabase/metabase-logo/master/dist/metabase-logo.png"
+         alt="metabase" width="40" height="40"/>
+  </a>
+  <!-- Version Control & CI -->
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+         alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"
+         alt="jenkins" width="40" height="40"/>
+  </a>
 </p>
+
 
 ## ⚡ Fun Fact
 > ☭ 
