@@ -33,8 +33,7 @@
 
 ---
 
-## 🌱 What I’m up to
-- Building **E‑Commerce DBMS** projects 
+## 🌱 What I’m up to 
 - Automating data pipelines with **DMS**, **Python**, and **Terraform**  
 - Leveling up on:
 - **AWS Data Engineer** - (DEA-C01)
